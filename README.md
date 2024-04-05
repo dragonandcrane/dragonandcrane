@@ -17,4 +17,4 @@ To start, this project will be a sandbox to experiment with
 Once said experiments have sufficiently progressed:
  - they will move to Dragon-and-Crane-Dojo organization to serve as foundation for dojo internship programs
  - this repo's contents will be replaced with my personal content
- - this repo's Github pages will be DNS mapped to chung-sensei.dragonandcranedojo.com (while dragonandcrane.dragonandcranedojo.com would be the obvious choice, it doesn't flow well).
+ - this repo's Github pages will be DNS mapped to `chung-sensei.dragonandcranedojo.com` (while `dragonandcrane.dragonandcranedojo.com` would be the obvious choice, it doesn't flow well).
