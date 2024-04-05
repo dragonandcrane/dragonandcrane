@@ -1,16 +1,20 @@
-### Hi there 👋
+**dragonandcrane/dragonandcrane.github.io** is a _special_ repository
 
-<!--
-**dragonandcrane/dragonandcrane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Its Github pages are hosted directly at https://dragonandcrane.github.io
 
-Here are some ideas to get you started:
+Any other `reponame` would be hosted at https://dragonandcrane.github.io/reponame/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+2024-04-04 Notes on Setup and Intent
+
+To start, this project will be a sandbox to experiment with
+ - Github pages: web hosting
+ - Jekyll: static content generation
+ - React: frontend framework
+ - Github web editor: browser-based IDE
+
+Once said experiments have sufficiently progressed:
+ - they will move to Dragon-and-Crane-Dojo organization to serve as foundation for dojo internship programs
+ - this repo's contents will be replaced with my personal content
+ - this repo's Github pages will be DNS mapped to chung-sensei.dragonandcranedojo.com (while dragonandcrane.dragonandcranedojo.com would be the obvious choice, it doesn't flow well).
