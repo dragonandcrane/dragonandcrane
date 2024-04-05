@@ -1,3 +1,5 @@
+![Dojo Logo](assets/logo-transparent.png "dojo logo")
+
 # Dragon and Crane Dojo
 
 ## _Traditional Karate, Adapted for Today_
@@ -32,6 +34,9 @@ After Okinawa became part of Japan, several of its traditional _te_ styles were 
 Born in Okinawa and trained in a foundation of Motobu-ryu, _Ken Nagayama_ immigrated to southern California in 1976 and adapted boxing, taekwondo, and aikido to found his own dojo in 1988.
 
 In 2021, _David Chung_, a 2nd dan student of master Nagayama, continued the tradition of adapting his own experiences both on and off the mat into a new kind of curriculum at Dragon and Crane Dojo.
+
+![Motoburyu Lineage](assets/motoburyu-lineage.gif "motoburyu lineage")
+
 
 ## Instructor
 
@@ -68,12 +73,10 @@ For location and class schedule, please visit kennagayama.com.
 
 ## Contact Us
 
-> 9514 Sepulveda Blvd.
-> North Hills, CA 91343
-> (747) 333-6030
-> dragonandcranedojo@gmail.com
+9514 Sepulveda Blvd.
+<br>North Hills, CA 91343
+<br>(747) 333-6030
+<br>dragonandcranedojo@gmail.com
 
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3298.2035521160765!2d-118.46961852427543!3d34.24334927308559!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c291feacd6c5b7%3A0x77e18e71b7413de9!2sDragon%20and%20Crane%20Dojo!5e0!3m2!1sen!2sus!4v1712308155791!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-<!-- https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d100921.8397227734!2d-122.50711698562192!3d37.77111185957552!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sGithub!5e0!3m2!1sen!2sus!4v1464784986282 -->
