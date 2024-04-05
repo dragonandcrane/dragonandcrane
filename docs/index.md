@@ -74,6 +74,6 @@ For location and class schedule, please visit kennagayama.com.
 > dragonandcranedojo@gmail.com
 
 
-<iframe src="https://www.google.com/maps/embed?ll=34.243349,-118.467044&z=12&t=m&hl=en-US&gl=US&mapclient=embed&q=9514+Sepulveda+Blvd+North+Hills,+CA+91343" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3298.2035521160765!2d-118.46961852427543!3d34.24334927308559!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c291feacd6c5b7%3A0x77e18e71b7413de9!2sDragon%20and%20Crane%20Dojo!5e0!3m2!1sen!2sus!4v1712308155791!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <!-- https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d100921.8397227734!2d-122.50711698562192!3d37.77111185957552!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sGithub!5e0!3m2!1sen!2sus!4v1464784986282 -->
